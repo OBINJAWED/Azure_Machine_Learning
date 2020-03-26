@@ -1,6 +1,6 @@
 # Azure_Machine_Learning
 
-##AI Solutions with Azure Machine Learning
+## AI Solutions with Azure Machine Learning
 
 # Microsoft Learn - Azure Machine Learning Labs
 
